@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "859976351853",
-    "project_id": "mediscanproo",
-    "storage_bucket": "mediscanproo.appspot.com"
+    "project_number": "692132122711",
+    "project_id": "mediscanproo-d6308",
+    "storage_bucket": "mediscanproo-d6308.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:859976351853:android:5f0e820a5970d6b1a1bf64",
+        "mobilesdk_app_id": "1:692132122711:android:89743de3e04ef4215fd312",
         "android_client_info": {
           "package_name": "com.example.mediscanproo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "859976351853-ubv3pv7p4p0aupn59bq9050mpcn7io9u.apps.googleusercontent.com",
+          "client_id": "692132122711-341net48c9ki9uujtlrj92q79641rd2m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyArtlBGeV_ROAjmJdmPqou5yxPSqgo_9CY"
+          "current_key": "AIzaSyD3lvekIfXT1A_fXyOASmeLSABob_hZuYE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "859976351853-ubv3pv7p4p0aupn59bq9050mpcn7io9u.apps.googleusercontent.com",
+              "client_id": "692132122711-341net48c9ki9uujtlrj92q79641rd2m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

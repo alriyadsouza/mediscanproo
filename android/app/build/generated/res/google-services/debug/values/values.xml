@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">859976351853-ubv3pv7p4p0aupn59bq9050mpcn7io9u.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">859976351853</string>
-    <string name="google_api_key" translatable="false">AIzaSyArtlBGeV_ROAjmJdmPqou5yxPSqgo_9CY</string>
-    <string name="google_app_id" translatable="false">1:859976351853:android:5f0e820a5970d6b1a1bf64</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArtlBGeV_ROAjmJdmPqou5yxPSqgo_9CY</string>
-    <string name="google_storage_bucket" translatable="false">mediscanproo.appspot.com</string>
-    <string name="project_id" translatable="false">mediscanproo</string>
+    <string name="default_web_client_id" translatable="false">692132122711-341net48c9ki9uujtlrj92q79641rd2m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">692132122711</string>
+    <string name="google_api_key" translatable="false">AIzaSyD3lvekIfXT1A_fXyOASmeLSABob_hZuYE</string>
+    <string name="google_app_id" translatable="false">1:692132122711:android:89743de3e04ef4215fd312</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3lvekIfXT1A_fXyOASmeLSABob_hZuYE</string>
+    <string name="google_storage_bucket" translatable="false">mediscanproo-d6308.firebasestorage.app</string>
+    <string name="project_id" translatable="false">mediscanproo-d6308</string>
 </resources>

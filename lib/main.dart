@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:mediscanproo/LoginPage1.dart';
-import 'package:mediscanproo/RegistrationPage1.dart';
+import 'package:mediscanproo/Auth/Company/CompanyRegister.dart';
 import 'MyHomePage.dart';
-import 'RegistrationPage.dart';
-import 'LoginPage.dart';
+import 'Auth/User/UserRegister.dart';
+import 'Auth/LoginPage.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 void main() async {
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: MyHomePage(),
+      home: StartPage(),
     );
   }
 }
@@ -68,7 +68,7 @@ class StartPage extends StatelessWidget {
                 onPressed: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => RegistrationPage1()),
+                    MaterialPageRoute(builder: (context) => CompanyRegister()),
                   );
                 },
                 child: Text(
@@ -88,7 +88,7 @@ class StartPage extends StatelessWidget {
                 onPressed: () {
                   Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => RegistrationPage(isOrg: false)),
+                    MaterialPageRoute(builder: (context) => UserRegister()),
                   );
                 },
                 child: Text(
